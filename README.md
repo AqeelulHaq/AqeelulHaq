@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aqeelul Haq 👋
 
-<!--
-**AqeelulHaq/AqeelulHaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Power BI | Excel | SQL
 
-Here are some ideas to get you started:
+## About me
+I turn raw data into clear dashboards and insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Power BI (DAX, Power Query)
+- Excel
+- Data cleaning & visualization
+
+## Projects
+- [power Bi dashboards ](link-to-repo) – Power BI dashboard on a random sales data
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/aqeel-ul-haq-mohammed-2ab39b33a/
