@@ -9,6 +9,11 @@ I turn raw data into clear dashboards and insights.
 - Power BI (DAX, Power Query)
 - Excel
 - Data cleaning & visualization
+- UIUX Designer
+- UX Developer
+- Figma Prototyping
+- Aspiring AI Forward Deployer
+- 
 
 ## Projects
 - [power Bi dashboards ](https://app.powerbi.com/groups/me/reports/efebaf73-fa66-4285-8ef0-e8b529b34642/b03e05103a008e0abb1d?experience=power-bi) – Power BI dashboard on a random sales data
