@@ -3,7 +3,7 @@
 Data Analyst | Power BI | Excel | SQL
 
 ## About me
-I turn raw data into clear dashboards and insights.
+I always think that the work IT industry does isnt a mere problem solving or creating new technologies in my perspective its an art and every project is a masterpiece an unique art and the same art inspires me to built or be a part of that unique masterpiece of art.
 
 ## Skills
 - Power BI (DAX, Power Query)
